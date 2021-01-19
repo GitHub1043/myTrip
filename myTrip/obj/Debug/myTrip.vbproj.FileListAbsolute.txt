@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\bin\Debug\myTrip.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\bin\Debug\myTrip.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\bin\Debug\myTrip.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\bin\Debug\myTrip.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\obj\Debug\myTrip.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\obj\Debug\myTrip.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\obj\Debug\myTrip.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\obj\Debug\myTrip.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\obj\Debug\myTrip.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\basicsAyden\myTrip\myTrip\obj\Debug\myTrip.pdb
